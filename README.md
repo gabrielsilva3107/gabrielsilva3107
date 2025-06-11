@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Gabriel Silva
 
-Sou um desenvolvedor Full Stack com foco em JavaScript, Vue.js, React e Python.
+Sou um desenvolvedor Full Stack com foco em TypeScript, Vue.js, React e Python.
 
 🎓 Formado no curso Full Stack Python da EBAC e atualmente cursando Ciência da Computação na Barão de Mauá, sigo aprimorando minhas habilidades no desenvolvimento web e back-end.
 
